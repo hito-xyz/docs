@@ -1,0 +1,101 @@
+# Welcome To The Beta Hito Hardware Wallet Experience #
+Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things to know about using your beta edition Hito.
+
+Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you - thank you for taking the Hito journey with us!
+
+
+## User’s Guide To Your Beta Hito Hardware Wallet ##
+
+#### [Section I](https://github.com/hito-xyz/docs/new/main?readme=1#i--your-beta-htio-wallet-has-limited-functionality---heres-what-you-need-to-know): What does beta functionality entail? Understanding the limitations of your beta Hito. ####
+#### [Section II](https://github.com/hito-xyz/docs/new/main?readme=1#ii-beta-hito-hardware-wallet-functionality): Summary of beta Hito hardware wallet functions ####
+#### [Section III](https://github.com/hito-xyz/docs/new/main?readme=1#iii-overview-what-you-can-do-with-the-beta-hito): Overview of what you can do with your beta Hito hardware wallet ####
+#### [Section IV](https://github.com/hito-xyz/docs/new/main?readme=1#iv-how-to-transfer-crypto-from-software-wallet-or): How to transfer crypto from software wallet or exchange to your beta Hito hardware wallet ####
+#### [Section V](https://github.com/hito-xyz/docs/new/main?readme=1#v-how-to-transfer-crypto-from-the-beta-hito-hardware): How to  transfer crypto from the beta Hito hardware wallet to your software wallet ####
+#### [Section VI](https://github.com/hito-xyz/docs/new/main?readme=1#vi--video-demos): Video Demos
+
+
+## I.  Your beta Hito wallet has limited functionality - here’s what you need to know: ##
+        Supply chain issues have slowed receipt of different components and approvals with certain impacts 
+        on your beta Hito user experience: 
+
+1.  **Manufactured in the USA:** Our shipment of * *Made in California | Founder’s Edition* * back panels has been delayed until January 6th. We therefore made the decision to ship your beta unit on time with prototype back panels which bear a Made in Berlin imprint, although your beta Htio wallet was assembled in San Francisco California.     
+    - We will ship to all beta unit recipients a new Hito wallet with the Made in California|Founder’s Edition back panel beginning March 2023. 
+2.  **Waterproofing:** the beta unit is not fully waterproof, your new Hito wallet shipped beginning March 2023 will be fully waterproof.
+3.  **Software wallet support:** the beta Hito hardware wallet only works with the Hito App at the moment; it will support other software wallets in an upcoming firmware update
+4.  **Transactions:** your beta Hito is safe and secure, but we strongly suggest your transact in small amounts with your beta Htio wallet until all firmware audits are complete. 
+5.  **Product Review Embargo:** We welcome your user experience reports, questions, and suggestions in the Github repository. ** We ask that you refrain from any formal/comparative product and feature reviews of the beta Hito hardware wallet, and wait until you receive the fully functional first release version we will ship to you in March 2023 before publicizing your commentary. 🙏
+
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-hardware-wallet)
+
+
+## II.	 Beta Hito Hardware Wallet Functionality ##
+
+1. Supports ETH transactions
+2. ERC20 (receive only)
+3. Features native Uniswap support - you will be able to swap in and out of any ERC20 token through Uniswap, connecting to the wallet
+4. Supports Android OS (app.hito.dev)
+5. Supports instant notifications (backend + app support)
+6. Hito app supports Unstoppable Domains and ENS support (on send) 
+7. ERC721 support  will roll out via firmware update in January. We’ll provide a firmware update guide in the Hito Github repository
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-hardware-wallet)
+
+
+## III. 	Overview: What You Can Do With the Beta Hito Hardware Wallet ##
+
+1. Safely transfer  crypto from any software wallet to your beta Hito hardware wallet
+2. Easily transfer crypto from your beta Hito hardware wallet to any software wallet
+3. Clearly view your current crypto balance in the beta Hito App (only)
+4. Confidently verify what you’re signing for with the ETH Emojidress -  Hito’s signal use of color, underlines and emojis makes it easy to check the 42-character Ethereum address onscreen is correct 
+5. Securely  sign and transact with a touch and a tap
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-hardware-wallet)
+
+
+## IV. 	How To: transfer crypto from software wallet or exchange to Hito ##
+
+1. Open the Hito app at [app.hito.dev](https://app.hito.dev/)
+2. Choose the network (ETH, BTC, etc.) in the Hito app
+3. Scan your QR-address in Hito with your smartphone
+4. Choose the app (in the pop-up notification) you want to transfer funds from
+5. Enter the sum 
+6. Verify the address with the Ethereum Emojidress
+7. Sign (tap) the transaction: check the transaction details and enter you pin using your beta Hito hardware wallet
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-
+-wallet)
+
+
+## V. 	How To transfer crypto from the beta Hito hardware wallet to your software wallet ## 
+
+1. Open the Hito app at [app.hito.dev](https://app.hito.dev/)
+2. Enter the address you want to transfer to (copy and paste)
+3. Choose the network
+4. Enter the sum
+5. Check the address by verifying the Ethereum Emojidress
+6. Sign (tap) the transaction
+7. Check the transaction details and enter you pin using your Hito
+   - Details: how the transaction is signed
+     - After you tap the button “Send” in the app →
+     - Transaction details appear on the device →
+     - After checking transaction details tap the button to “Sign” on the Hito hardware device screen → 
+     - Enter the PIN → 
+     - The transaction is signed!
+     - You can see transaction details and the link for the blockchain explorer in the app
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-hardware-wallet)
+
+
+## VI.  Video Demos ##
+
+1. Watch a beta [Hito Transaction Demo](https://youtu.be/oA9JYdlF1rY) screencast (sending, signing)
+
+2. Watch a demo on how [Uniswap support](https://youtu.be/E--A4ZzqO3ohttps://youtu.be/E--A4ZzqO3o) works on your beta Hito 
+
+3. Watch this space for How To Update Your Hito Firmware video instructions.
+
+
+[Back to top](https://github.com/hito-xyz/docs/new/main?readme=1#users-guide-to-your-beta-hito-hardware-wallet)
+
+
