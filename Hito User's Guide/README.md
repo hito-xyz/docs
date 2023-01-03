@@ -1,3 +1,6 @@
+![social media banners_medium](https://user-images.githubusercontent.com/41199341/210452310-6285d50b-922f-4ee3-83cb-2918e2681533.png)
+
+
 # Welcome To The Beta Hito Hardware Wallet Experience #
 Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things to know about using your beta edition Hito.
 
@@ -85,6 +88,7 @@ Some of you are experienced users of hardware wallets, while some will be first 
 
 [Back to top](https://github.com/hito-xyz/docs/edit/main/README.md#users-guide-to-your-beta-hito-hardware-wallet)
 
+![social media banners_linkedin](https://user-images.githubusercontent.com/41199341/210452599-a365bd03-ecae-4654-b479-7543dea251cd.png)
 
 ## VI.  Video Demos ##
 
