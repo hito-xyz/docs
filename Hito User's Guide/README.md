@@ -4,12 +4,14 @@
 # Welcome To The Beta Hito Hardware Wallet Experience #
 Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things to know about using your beta edition Hito.
 
-Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you - thank you for taking the Hito journey with us!
+        Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of 
+        experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you - 
+        thank you for taking the Hito journey with us!
 
 ## Getting Started ##
 1. To power up your beta Hito press the button at the side
-2. We emailed you the default PIN code your beta Hito shipped with - this can be changed later via firmware update that will be available through the end of this week
-3. note iOS support will be released at the end of this week
+2. Your beta Hito wallet was shipped with a default PIN code of 111111 - this can be changed later via firmware update that will be available by January 6th
+3. note iOS support will be released by January 6th
 
 
 ## User’s Guide To Your Beta Hito Hardware Wallet ##
@@ -24,7 +26,7 @@ Some of you are experienced users of hardware wallets, while some will be first 
 
 ## I.  Your beta Hito wallet has limited functionality - here’s what you need to know: ##
         Supply chain issues have slowed receipt of different components and approvals with certain impacts 
-        on your beta Hito user experience: 
+        on your beta Hito user experience 
 
 1.  **Manufactured in the USA:** Our shipment of * *Made in California | Founder’s Edition* * back panels has been delayed until January 6th. We therefore made the decision to ship your beta unit on time with prototype back panels which bear a Made in Berlin imprint, although your beta Htio wallet was assembled in San Francisco California.     
     - We will ship to all beta unit recipients a new Hito wallet with the Made in California|Founder’s Edition back panel beginning March 2023. 
