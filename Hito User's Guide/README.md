@@ -6,6 +6,11 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 
 Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you - thank you for taking the Hito journey with us!
 
+## Getting Started ##
+1. To power up your beta Hito press the button at the side
+2. We emailed you the default PIN code your beta Hito shipped with - this can be changed later via firmware update that will be available through the end of this week
+3. note iOS support will be released at the end of this week
+
 
 ## User’s Guide To Your Beta Hito Hardware Wallet ##
 
@@ -15,12 +20,6 @@ Some of you are experienced users of hardware wallets, while some will be first 
 #### [Section IV](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#v-how-to-transfer-crypto-from-the-beta-hito-hardware-wallet-to-your-software-wallet): How to transfer crypto from software wallet or exchange to your beta Hito hardware wallet ####
 #### [Section V](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#v-how-to-transfer-crypto-from-the-beta-hito-hardware-wallet-to-your-software-wallet): How to  transfer crypto from the beta Hito hardware wallet to your software wallet ####
 #### [Section VI](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#vi--video-demos): Video Demos
-
-
-## Getting Started ##
-1. To power up your beta Hito press the button at the side
-2. Your device default PIN code is 111111 - this can be changed later via firmware update that will be available through the end of this week
-3. note iOS support will be released at the end of this week
 
 
 ## I.  Your beta Hito wallet has limited functionality - here’s what you need to know: ##
