@@ -17,6 +17,12 @@ Some of you are experienced users of hardware wallets, while some will be first 
 #### [Section VI](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#vi--video-demos): Video Demos
 
 
+## Getting Started ##
+1. To power up your beta Hito press the button at the side
+2. Your device default PIN code is 111111 - this can be changed later via firmware update that will be available through the end of this week
+3. note iOS support will be released at the end of this week
+
+
 ## I.  Your beta Hito wallet has limited functionality - here’s what you need to know: ##
         Supply chain issues have slowed receipt of different components and approvals with certain impacts 
         on your beta Hito user experience: 
