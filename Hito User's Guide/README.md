@@ -56,7 +56,7 @@ Some of you are experienced users of hardware wallets, while some will be first 
 [Back to top](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#users-guide-to-your-beta-hito-hardware-wallet)
 
 
-## IV. 	How To: transfer crypto from software wallet or exchange to Hito ##
+## IV. 	How to transfer crypto from software wallet or exchange to Hito ##
 
 1. Open the Hito app at [app.hito.dev](https://app.hito.dev/)
 2. Choose the network (ETH, BTC, etc.) in the Hito app
@@ -69,7 +69,7 @@ Some of you are experienced users of hardware wallets, while some will be first 
 [Back to top](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#users-guide-to-your-beta-hito-hardware-wallet)
 
 
-## V. 	How To transfer crypto from the beta Hito hardware wallet to your software wallet ## 
+## V. 	How to transfer crypto from the beta Hito hardware wallet to your software wallet ## 
 
 1. Open the Hito app at [app.hito.dev](https://app.hito.dev/)
 2. Enter the address you want to transfer to (copy and paste)
