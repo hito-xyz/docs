@@ -103,10 +103,10 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 ## VI.  Video Demos ##
 
 1. Watch a beta [Hito Transaction Demo](https://youtu.be/oA9JYdlF1rY) screencast (sending, signing)
-
 2. Watch a demo on how [Uniswap support](https://youtu.be/E--A4ZzqO3ohttps://youtu.be/E--A4ZzqO3o) works on your beta Hito 
-
-3.
+3. Install the [Hito beta app](https://youtube.com/shorts/LYANqj3g4SY)
+5. Pair your Hito wallet with the Hito beta instructional video [here](https://youtube.com/shorts/pHPlrf77LZs)
+6. Watch the video [How To Make a Transaction](https://youtube.com/shorts/eQMrfLVqmuE)
 
 
 [Back to top](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#users-guide-to-your-beta-hito-hardware-wallet)
