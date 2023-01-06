@@ -10,8 +10,10 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 
 ## Getting Started ##
 1. To power up your beta Hito press the button at the side
-2. Your beta Hito wallet was shipped with a default PIN code of 111111 - this can be changed later via firmware update that will be available by January 6th
-3. note iOS support will be released by January 6th
+2. Your beta Hito wallet was shipped with a default PIN code of 111111 - this can be changed later via firmware update
+3. install the latest [firmware](https://fota.hito.dev) (available on Mac Chrome or Android)
+4. pair your Hito wallet with the Hito beta instructional video [here](https://youtube.com/shorts/pHPlrf77LZs)
+5. watch the video [How To Make a Transaction](https://youtube.com/shorts/eQMrfLVqmuE)
 
 
 ## User’s Guide To Your Beta Hito Hardware Wallet ##
@@ -24,7 +26,7 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 #### [Section VI](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#vi--video-demos): Video Demos
 
 
-## I.  Your beta Hito wallet has limited functionality - here’s what you need to know: ##
+## I.  Your beta Hito wallet has limited functionality (for now) - here’s what you need to know: ##
         Supply chain issues have slowed receipt of different components and approvals with certain impacts 
         on your beta Hito user experience 
 
