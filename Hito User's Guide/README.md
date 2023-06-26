@@ -102,7 +102,7 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 
 ## VI.  Video Demos ##
 
-1.  Install the latest [firmware](https://fota.hito.dev) (available on Mac Chrome or Android)
+1.  Install the latest [firmware](https://fota.hito.xyz) (available on Mac Chrome or Android)
 2. Install the [Hito beta app](https://youtube.com/shorts/LYANqj3g4SY)
 3. Pair your Hito wallet with the Hito beta instructional video [here](https://youtube.com/shorts/pHPlrf77LZs)
 4. [How To Make a Transaction](https://youtube.com/shorts/eQMrfLVqmuE) with your beta Hito hardware wallet
