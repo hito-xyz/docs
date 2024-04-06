@@ -117,4 +117,9 @@ Watch the video How To Make a Transaction
 
 [Back to top](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#users-guide-to-your-beta-hito-hardware-wallet)
 
+## VII. Open Source Code ##
+## Hito on Github ##
+ 
+unstoppable wallet with hito support [here](https://github.com/mishabunte/unstoppable-wallet-android) and [here](https://github.com/mishabunte/unstoppable-wallet-ios)
 
+hito protocol[here](https://github.com/mishabunte/hito-link) and [here](https://github.com/mishabunte/hito-link-near)
