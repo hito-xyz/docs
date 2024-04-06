@@ -122,4 +122,4 @@ Watch the video How To Make a Transaction
  
 unstoppable wallet with hito support [here](https://github.com/mishabunte/unstoppable-wallet-android) and [here](https://github.com/mishabunte/unstoppable-wallet-ios)
 
-hito protocol[here](https://github.com/mishabunte/hito-link) and [here](https://github.com/mishabunte/hito-link-near)
+hito protocol [here](https://github.com/mishabunte/hito-link) and [here](https://github.com/mishabunte/hito-link-near)
