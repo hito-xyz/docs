@@ -4,9 +4,7 @@
 # Welcome To The Beta Hito Hardware Wallet Experience #
 Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things to know about using your beta edition Hito.
 
-        Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of 
-        experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you - 
-        thank you for taking the Hito journey with us!
+Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you -  thank you for taking the Hito journey with us!
 
 ## Getting Started ##
 1. To power up your beta Hito press the button at the side
