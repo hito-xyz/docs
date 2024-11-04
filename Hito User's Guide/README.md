@@ -23,7 +23,7 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 
 ## User’s Guide To Your Beta Hito Hardware Wallet ##
 
-#### [Section I](https://github.com/hito-xyz/docs/tree/main/Hito%20User's%20Guide#i--functionality-will-be-added-to-your-wallet-over-time-with-firmware-updates-the-next-updates-will-include) ####
+#### [Section I](https://github.com/hito-xyz/docs/tree/main/Hito%20User's%20Guide#i--functionality-will-be-added-to-your-wallet-over-time-with-firmware-updates) ####
 #### [Section II](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#ii-beta-hito-hardware-wallet-functionality): Summary of beta Hito hardware wallet functions ####
 #### [Section III](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#iii-overview-what-you-can-do-with-the-beta-hito-hardware-wallet): Overview of what you can do with your beta Hito hardware wallet ####
 #### [Section IV](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#v-how-to-transfer-crypto-from-the-beta-hito-hardware-wallet-to-your-software-wallet): How to transfer crypto from software wallet or exchange to your beta Hito hardware wallet ####
