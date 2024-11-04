@@ -1,14 +1,14 @@
 ![social media banners_medium](https://user-images.githubusercontent.com/41199341/210452310-6285d50b-922f-4ee3-83cb-2918e2681533.png)
 
 
-# Welcome To The Beta Hito Hardware Wallet Experience #
-Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things to know about using your beta edition Hito.
+# Welcome To The Hito Hardware Wallet Experience #
+Thank you for pre-ordering the Hito Founder's Edition and/or Hold hardware wallet! Here are a few things to know about using your beta edition Hito.
 
 Some of you are experienced users of hardware wallets, while some will be first time users. No matter what your level of experience, we think you’ll find the beta Hito simple and intuitive to use. We’re excited to have early feedback from you -  thank you for taking the Hito journey with us!
 
 ## Getting Started ##
 1. To power up your beta Hito press the button at the side
-4. Your beta Hito wallet was shipped with a default PIN code of 111111 (this can be changed)
+4. Your Hito wallet was shipped with a default PIN code of 111111 (this can be changed)
 5. Install the latest [firmware v. 0.4.1.2](https://fota.hito.xyz) (available on Mac Chrome or Android)
 6. Because your Hito wallet is a signing device, to make a transaction it must be used with an application in one of two ways
    a. with the Hito app that works on iPhone or Android
@@ -18,7 +18,7 @@ Some of you are experienced users of hardware wallets, while some will be first 
 7. Watch the video [How To Make a Transaction](https://youtube.com/shorts/eQMrfLVqmuE)
 
 
-## User’s Guide To Your Beta Hito Hardware Wallet ##
+## User’s Guide To The Hito and Hold Hardware Wallet ##
 
 #### [Section I](https://github.com/hito-xyz/docs/tree/main/Hito%20User's%20Guide#i--functionality-will-be-added-to-your-wallet-over-time-with-firmware-updates): Functionality will be added to your wallet over time with firmware updates ####
 #### [Section II](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#ii-beta-hito-hardware-wallet-functionality): Summary of beta Hito hardware wallet functions ####
