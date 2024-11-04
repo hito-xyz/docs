@@ -31,7 +31,7 @@ Thank you for pre-ordering the beta Hito hardware wallet! Here are a few things 
 #### [Section VI](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#vi--video-demos): Video Demos
 
 
-## I.  Functionality will be added to your wallet over time with firmware updates.  
+## I.  Functionality will be added to your wallet over time with firmware update ## 
 The next scheduled updates will be found listed here: 
      
  
@@ -40,7 +40,7 @@ The next scheduled updates will be found listed here:
 [Back to top](https://github.com/hito-xyz/docs/edit/main/Hito%20User's%20Guide/README.md#users-guide-to-your-beta-hito-hardware-wallet)
 
 
-## II.	 Hito and Hold Hardware Wallet Functionality ##
+## II.  Hito and Hold Hardware Wallet Functionality ##
 
 1. Supports ETH transactions
 2. ERC20 (receive only)
